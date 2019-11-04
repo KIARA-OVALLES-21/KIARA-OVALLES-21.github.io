@@ -1,7 +1,6 @@
 <b>Kiara Ovalles</b>
 </p>
 
-
 <b>Datos de Educación</b>
 </p>
 <b> Eduacación Primaria</b>
