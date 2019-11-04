@@ -1,8 +1,8 @@
-<em>Kiara Ovalles</em>
+<b>Kiara Ovalles</b>
 </p>
 
 
-<em>Datos de Educación</em>
+<b>Datos de Educación</b>
 </p>
 <b> Eduacación Primaria</b>
 <li>Escuela Los Valadeses1</li>
@@ -12,5 +12,6 @@
 </p>
 <b>Contacto</b>
 <li>instagram:@ovalleskiara15 1</li>
+
 
 
