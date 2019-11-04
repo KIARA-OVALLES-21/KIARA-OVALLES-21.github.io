@@ -1,7 +1,5 @@
 <b>Kiara Ovalles</b>
-
-
-
+<img src="kiaraova.jpg">
 <b>Datos de Educación</b>
 
 <b> Eduacación Primaria</b>
