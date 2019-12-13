@@ -9,13 +9,14 @@
  
 <h1>Datos Educativos</h1>
 <p><strong>Escuelas:</strong><p>
-<p><em>- Primaria: Centro Educativo Loa Valdeses </em>
-<p><em>- Premedia y media: Colegio secundario La Mesa </em>
+<p><strong>- Primaria:</strong> Centro Educativo Loa Valdeses <p/>
+<p><em>- Premedia y media:</strong> Colegio secundario La Mesa </p>
 <p><strong>Universidad:</strong>
-  <P><em>- Universidad de Panamà</em>
+  <P><strong>- Universidad de Panamà</p>
   <h1>Redes Sociales</h1>
   <p><strong>Instagram:</strong> <a href="https://www.instagram.com/ovalleskiara7/?hl=es-la "><ovalleskiara7/a>
   <p><strong>Facebook:</strong> <a href="https://www.facebook.com/kiara.ovalles.56 ">Kiara Ovalles </>
+
 
 
 
