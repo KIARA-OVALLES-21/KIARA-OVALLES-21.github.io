@@ -17,7 +17,32 @@
  <p><strong>Instagram:</strong> <a href="https://www.instagram.com/ovalleskiara7/?hl=es-la ">ovalleskiara7</>
  <p><strong>Facebook:</strong> <a href="https://www.facebook.com/kiara.ovalles.56 ">Kiara Ovalles </>
 
+<p>Geolocalización</p>
+<p>Click the button to get your coordinates.</p>
 
+<button onclick="getLocation()">Try It</button>
+
+<p id="demo"></p>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.watchPosition(showPosition);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+    
+function showPosition(position) {
+    x.innerHTML="Latitude: " + position.coords.latitude + 
+    "<br>Longitude: " + position.coords.longitude;
+}
+</script>
+
+</body>
+</html>
 
 
 
